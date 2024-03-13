@@ -5,7 +5,7 @@ Empowering users with tamper-resistant and verifiable voting processes, promotin
 
 ## Images
 
-![image](src/assets/src/assets/login-page.png)
+![image](src/assets/login-page.png)
 ![image](src/assets/admin-page.png)
 ![image](src/assets/voting-page.png)
 

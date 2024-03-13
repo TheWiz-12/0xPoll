@@ -2,7 +2,9 @@
 ## Overview
 A secure and transparent voting system built on blockchain technology. 
 Empowering users with tamper-resistant and verifiable voting processes, promoting inclusivity and trust in electoral systems.
+
 ## Images
+
 ![image](src/assets/src/assets/login-page.png)
 ![image](src/assets/admin-page.png)
 ![image](src/assets/voting-page.png)
